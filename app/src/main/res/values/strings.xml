@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloStudio</string>
+    <string name="showmsg">你好,Android Studio!</string>
+</resources>
